@@ -15,7 +15,8 @@
             }
             result = number % 10;
         }
-    else {
+    else 
+    {
         Console.WriteLine("Третьей цифры нет");
     }
         return result; 
